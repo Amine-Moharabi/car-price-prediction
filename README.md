@@ -7,4 +7,4 @@ This project trains a regression model to predict car prices using Kaggle's data
 - scikit-learn
 
 ## How to run
-Open `car_price_prediction.ipynb` and run all cells.
+Open `chapter-02-car-price-project.ipynb` and run all cells.
